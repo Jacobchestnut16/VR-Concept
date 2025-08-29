@@ -1,26 +1,36 @@
 # VR-Concept
-Title: Working name of the project.
 
-Concept summary: One-paragraph pitch of the experience.
+## Title
+*(Insert app name here)*
 
-Genre and purpose: Game, training tool, educational, simulation, social, art, etc.
+## Problem Statement
+*(What issue or need does this app solve?)*
 
-Target audience: Who it is for, age range, skill level.
+## Goal / Purpose
+*(Main outcome or benefit for the user)*
 
-Platform and hardware: VR headset(s) supported, controllers, haptics, PC/standalone.
+## Target Users
+- *(User group 1)*
+- *(User group 2)*
 
-Core experience loop: What the user does repeatedly.
+## Core Features
+- Feature 1
+- Feature 2
+- Feature 3
 
-Interaction model: How users move, look, interact with objects or characters.
+## User Flow
+1. User launches app
+2. User does X
+3. User achieves Y
 
-Environment/world: Setting, atmosphere, level design style.
+## Interaction Model
+*(Controllers, hand tracking, gaze, voice commands, etc.)*
 
-Narrative or theme: If applicable, the story, characters, or guiding idea.
+## Environment / UI
+*(Describe the VR environment and interface style)*
 
-Unique features: What sets it apart (mechanics, immersion, accessibility).
+## Unique Value
+*(Why this app should be in VR instead of 2D)*
 
-Comfort and accessibility considerations: Motion sickness reduction, seated/standing options, inclusivity.
-
-Technical feasibility: Brief note on scope, assets, engine (Unity, Unreal).
-
-Use cases/outcomes: What users should take away—fun, skill, knowledge, emotional impact.
+## Accessibility & Comfort
+*(How motion sickness and inclusivity are handled)*
